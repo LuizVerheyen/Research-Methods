@@ -2,7 +2,7 @@
 
 | Name     | First Name | Class group | Github user name                        |
 | :------- | :--------- | :---------- | :-------------------------------------- |
-| SURNAME1 | Luiz Verheyen | TIN-2A1     | [UserName](https://github.com/LuizVerheyen) |
+| SURNAME1 | Luiz Verheyen | TIN-2A1     | [LuizVerheyen](https://github.com/LuizVerheyen) |
 | SURNAME2 | FirstName2 | TIN-2A1     | [UserName](https://github.com/UserName) |
 | SURNAME3 | FirstName3 | TIN-2A1     | [UserName](https://github.com/UserName) |
 | SURNAME4 | FirstName4 | TIN-2A1     | [UserName](https://github.com/UserName) |
